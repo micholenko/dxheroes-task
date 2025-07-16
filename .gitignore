@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+dist/
+.vscode/
+.offers_token_cache.json
+
