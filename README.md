@@ -4,7 +4,7 @@ A Python SDK for interacting with the Offers API. This package provides an easy-
 
 ## Features
 
-- **Async/await support** - 
+- **Async/await support**
 - **Type safety** - Full type hints and models with Pydantic
 - **HTTP client** - Uses httpx for HTTP requests
 - **Authentication** - Handles JWT token refresh automatically
